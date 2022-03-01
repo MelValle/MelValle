@@ -1,6 +1,5 @@
 Hola! Soy Mel 👋
 - 💻 Full-Stack Web Developer
-- 👀 Estoy interesada en: React
 - 🔭 Trabaje en proyectos como Bi.Thesis y Ta fête
 - 🌱 Estoy mejorando mis conocimientos en Ruby on Rails y JavaScript
 - 📫 Me puedes contactar por correo: melvallep20@gmail.com
